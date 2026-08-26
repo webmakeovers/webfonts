@@ -5,3 +5,18 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'SumunjangTitle';
+    src: url('https://cdn.jsdelivr.net/gh/webmakeovers/webfonts@main/GyeongbokgungSumunjangTitleM.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SumunjangBody';
+    src: url('https://cdn.jsdelivr.net/gh/webmakeovers/webfonts@main/GyeongbokgungSumunjangBodyL.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
