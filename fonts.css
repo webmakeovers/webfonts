@@ -1,13 +1,14 @@
 @font-face {
     font-family: 'OwnglyphDad';
-    src: url('https://cdn.jsdelivr.net/gh/webmakeovers/webfonts@main/%EC%98%A8%EA%B8%80%EC%9E%8E%20%EC%95%84%EB%B9%A0%20%EC%86%90%EA%B8%80%EC%94%A8.ttf') format('truetype');
+    src: url('./OwnglyphDad.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'SumunjangTitle';
-    src: url('https://cdn.jsdelivr.net/gh/webmakeovers/webfonts@main/GyeongbokgungSumunjangTitleM.ttf') format('truetype');
+    src: url('./GyeongbokgungSumunjangTitleM.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -15,7 +16,7 @@
 
 @font-face {
     font-family: 'SumunjangBody';
-    src: url('https://cdn.jsdelivr.net/gh/webmakeovers/webfonts@main/GyeongbokgungSumunjangBodyL.ttf') format('truetype');
+    src: url('./GyeongbokgungSumunjangBodyL.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
